@@ -42,11 +42,11 @@ let courses = {
     CSC404: "Database Systems"
 }
 //  Renaming while detructing; This method the curly bracket method
-//  let {CSC401:CSC400} = courses
-//  console.log(CSC400)
+  let {CSC401:CSC400} = courses
+  console.log(CSC400)
 // // OR
-let CSC400 = courses.CSC402
- console.log(CSC400)
+// let CSC400 = courses.CSC402
+//  console.log(CSC400)
 
 let person = {
     name: "Amina",
@@ -94,7 +94,7 @@ for(let key in user){
     //  console.log("these are the keys :" + key)
     // console.log("these are the values:" + user[key])
 }
-
+ 
 // for of
 // for(let values in user){
 //     console.log(values)
