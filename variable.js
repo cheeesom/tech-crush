@@ -10,7 +10,7 @@ console.log(myName)
 //let myAge=25
 // console.log(myAge)
 
-const myHeight=5.6
+//const myHeight=5.6
 //console.log(myHeight)
 
 //variable assignment

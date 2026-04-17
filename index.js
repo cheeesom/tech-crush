@@ -2,12 +2,12 @@
 
 //PRIMITIVE DATA TYPES
 //STRING : A TEXT ENCLOSED IN QUOTES
-// var , let and const are used to declare variables in JavaScript.
+// var , let and const are keywords used to declare variables in JavaScript.
 var person = "John";
 console.log(person); // Output: John
 let myName = "Chisom"
 console.log(myName); // Output: Chisom
-
+ 
 //NUMBER : A NUMERIC VALUE
 let age = 30;
 const pi = 3.14;

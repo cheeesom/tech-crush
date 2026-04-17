@@ -38,10 +38,10 @@ if (voterAge >=18){
    console.log("Sorry youre not allowed to vote")
 }
 
-let DavidBodyType = "Fat"
-if (DavidBodyType === Fat){
-   console.log(true)
-} else{
-   console.log("Fat!!!")
-}
+// let DavidBodyType = "Fat"
+// if (DavidBodyType === Fat){
+//    console.log(true)
+// } else{
+//    console.log("Fat!!!")
+// }
 

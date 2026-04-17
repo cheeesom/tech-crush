@@ -264,13 +264,13 @@
 //     console.log(colors)
 //     console.log(addColor)
 
-//       const color = ["blue", "yellow", "red"]
+const color = ["blue", "yellow", "red"]
 
-// //     let removeRed = color.pop()
-// //     console.log(color)
-// //     console.log(removeRed)
-// //     let indexOfYellow = color[1]
-// //     console.log(indexOfYellow)
+  let removeRed = color.pop()
+   console.log(color)
+   console.log(removeRed)
+ let indexOfYellow = color[1]
+ console.log(indexOfYellow)
 
 
 // // let employee = {
@@ -371,3 +371,14 @@ if (score >= 90){
 } else {
     console.log("F")
 }
+
+
+const user = {
+    name: "Esther",
+password: "12345",
+isFemale: true,
+age: 25
+}
+console.log(Object.keys(user))
+console.log(Object.values(user))
+console.log(Object.entries(user))
